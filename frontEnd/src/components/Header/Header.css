@@ -1,0 +1,40 @@
+.header{
+    height: 34vw;
+    margin: 30px auto;
+    background: url("/header_img.png") no-repeat;
+    background-size: contain;
+    position: relative;
+
+}
+.header-contents{
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    gap: 1.5w;
+    max-width: 50%;
+    bottom:  10%;
+    left: 6vw;
+    animation: fadein 3s ;
+}
+h2{
+    font-size: 50px;
+    color: white;
+
+}
+h2::first-letter{
+    font-size: 90px;
+}
+p{
+    color: white;
+}
+button{
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+    margin-top: 10px;
+    padding: 10px 28px;
+    border: none;
+    outline: none;
+    font-size: 16px;
+}
