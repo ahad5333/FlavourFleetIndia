@@ -17,15 +17,15 @@
     left: 6vw;
     animation: fadein 3s ;
 }
-h2{
+.header-contents h2{
     font-size: 50px;
     color: white;
 
 }
-h2::first-letter{
+.header-contents h2::first-letter{
     font-size: 90px;
 }
-p{
+.header-contents p{
     color: white;
 }
 button{
