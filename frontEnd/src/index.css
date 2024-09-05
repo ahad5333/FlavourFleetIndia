@@ -1,11 +1,11 @@
-@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=PT+Serif&family=Protest+Riot&family=Protest+Strike&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&family=Protest+Riot&family=Protest+Strike&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
 
 *{
   padding: 0;
   margin: 0;
   box-sizing: border-box;
   font-family: Outfit;
-
+  scroll-behavior: smooth;
 }
 body{
   min-height: 100vh;
@@ -13,15 +13,15 @@ body{
 a{
   text-decoration: none;
   color: inherit;
-
 }
 .app{
-  width: 85%;
+  width: 80%;
   margin: auto;
 }
-@keyframes fadein {
+@keyframes fadeIn {
   0%{
-    opacity:0 ;
+    opacity: 0;
+
   }
   100%{
     opacity: 1;
