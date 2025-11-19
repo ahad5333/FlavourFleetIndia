@@ -142,14 +142,3 @@ This project is licensed under the [MIT License](LICENSE) – free to use, modif
 * Email: [ahad53344@gmail.com](mailto:ahad53344@gmail.com)
 
 ```
-
----
-
-### ✅ Improvements in this version:
-1. Added **project banner** and **section emojis** for readability.  
-2. Reorganized **screenshots in a table** format.  
-3. Simplified **installation & running instructions**.  
-4. Added **icons and headings** for a modern, professional look.  
-5. Fixed formatting issues with code blocks and lists.
-
----
